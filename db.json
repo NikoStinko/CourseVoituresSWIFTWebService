@@ -1,0 +1,26 @@
+{
+  "nom": "Trajet de test",
+  "label": "Test Paris-Lyon",
+  "checkpoints": [
+    {
+      "label": "Départ - Paris",
+      "x": 48.8566,
+      "y": 2.3522
+    },
+    {
+      "label": "Checkpoint 1",
+      "x": 47.9029,
+      "y": 1.9098
+    },
+    {
+      "label": "Checkpoint 2",
+      "x": 46.7794,
+      "y": 3.0874
+    },
+    {
+      "label": "Arrivée - Lyon",
+      "x": 45.764,
+      "y": 4.8357
+    }
+  ]
+}
